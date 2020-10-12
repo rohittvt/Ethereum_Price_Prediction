@@ -1,0 +1,2 @@
+# Ethereum_Price_Prediction
+The Ethereum closing price value is influenced by various factors. It is mostly influenced by Supply Demand, Investors Sentiments and other internal factors. Here we will try to predict the closing prices of Ethereum using various timeseries models and also using various Independent variables available in data such as high prices in previous days. Our approach will be to create various time-series models with best parameters and come up with an overall comparison of model using test set to decide the best model.
